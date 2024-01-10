@@ -1,0 +1,35 @@
+
+table {
+margin: auto; 
+}
+td {
+text-align: center;
+}
+p {
+text-align: center;
+color: black;
+font-size: larger;
+}
+h1{
+text-align: center;
+}
+ul{
+    border: 3px solid #c49760;
+list-style-position: inside;
+text-align: center;
+width: 150px;
+margin-left: auto;
+margin-right: auto;
+}
+li{
+text-align: center;
+}
+div{
+    border: 2px solid black;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #c7b39b;
+    color: aliceblue;
+    border-radius: 7px;
+}
